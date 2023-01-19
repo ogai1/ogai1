@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Business Analysis 
 - 💞️ I’m looking to collaborate on any Data related project
 
-- 🛠  My stack includes ![image](https://user-images.githubusercontent.com/120729134/212257644-8df2db68-dcbf-4a7b-bb18-5ba4bd807c28.png) ![download](https://user-images.githubusercontent.com/120729134/213375758-c288b5c8-6f80-4a66-ac6b-62c1ce7979db.png)
+- 🛠  My stack includes ![image](https://user-images.githubusercontent.com/120729134/212257644-8df2db68-dcbf-4a7b-bb18-5ba4bd807c28.png) ![download](https://user-images.githubusercontent.com/120729134/213376117-29bf1f6d-704d-40cb-a8c4-cd658652e962.jpg)
+
  ![image](https://user-images.githubusercontent.com/120729134/212257714-29c03f9d-9d30-4176-9db2-a1d3727e8f92.png)
 ![image](https://user-images.githubusercontent.com/120729134/212257777-68373691-8a2b-478f-a99b-35511c88eb31.png)
 
